@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\bin\Debug\net8.0\BibliotecaDeAlumnos28-11.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\bin\Debug\net8.0\BibliotecaDeAlumnos28-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\bin\Debug\net8.0\BibliotecaDeAlumnos28-11.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\BibliotecaDeAlumnos28-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\BibliotecaDeAlumnos28-11.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\BibliotecaDeAlumnos28-11.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\BibliotecaDeAlumnos28-11.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\BibliotecaDeAlumnos28-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\refint\BibliotecaDeAlumnos28-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\BibliotecaDeAlumnos28-11.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\BibliotecaDeAlumnos28-11\obj\Debug\net8.0\ref\BibliotecaDeAlumnos28-11.dll

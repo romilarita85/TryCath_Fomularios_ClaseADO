@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\bin\Debug\net8.0\DelegadosComparador05-12.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\bin\Debug\net8.0\DelegadosComparador05-12.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\bin\Debug\net8.0\DelegadosComparador05-12.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\bin\Debug\net8.0\DelegadosComparador05-12.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\bin\Debug\net8.0\DelegadosComparador05-12.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\refint\DelegadosComparador05-12.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\DelegadosComparador05-12.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\DelegadosComparador05-12\obj\Debug\net8.0\ref\DelegadosComparador05-12.dll

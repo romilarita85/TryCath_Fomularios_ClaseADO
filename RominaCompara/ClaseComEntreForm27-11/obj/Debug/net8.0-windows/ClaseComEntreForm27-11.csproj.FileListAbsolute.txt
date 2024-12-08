@@ -1,0 +1,16 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\bin\Debug\net8.0-windows\ClaseComEntreForm27-11.exe
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\bin\Debug\net8.0-windows\ClaseComEntreForm27-11.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\bin\Debug\net8.0-windows\ClaseComEntreForm27-11.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\bin\Debug\net8.0-windows\ClaseComEntreForm27-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\bin\Debug\net8.0-windows\ClaseComEntreForm27-11.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27_11.FormPrincipal.resources
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\refint\ClaseComEntreForm27-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ClaseComEntreForm27-11.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\ClaseComEntreForm27-11\obj\Debug\net8.0-windows\ref\ClaseComEntreForm27-11.dll

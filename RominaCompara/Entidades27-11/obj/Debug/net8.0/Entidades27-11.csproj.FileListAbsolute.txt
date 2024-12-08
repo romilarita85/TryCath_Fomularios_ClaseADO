@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\bin\Debug\net8.0\Entidades27-11.deps.json
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\bin\Debug\net8.0\Entidades27-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\bin\Debug\net8.0\Entidades27-11.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\Entidades27-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\Entidades27-11.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\Entidades27-11.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\Entidades27-11.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\Entidades27-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\refint\Entidades27-11.dll
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\Entidades27-11.pdb
+C:\Users\PC\OneDrive\Escritorio\MisProyectos\ClaseGermanPoo_24\TryCath_Fomularios\RominaCompara\Entidades27-11\obj\Debug\net8.0\ref\Entidades27-11.dll

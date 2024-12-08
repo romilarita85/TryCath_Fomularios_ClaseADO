@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClasesyForms28-11/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeAlumnos28-11": "1.0.0"
+        },
+        "runtime": {
+          "ClasesyForms28-11.dll": {}
+        }
+      },
+      "BibliotecaDeAlumnos28-11/1.0.0": {
+        "runtime": {
+          "BibliotecaDeAlumnos28-11.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasesyForms28-11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeAlumnos28-11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
